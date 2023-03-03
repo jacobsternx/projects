@@ -7,7 +7,8 @@ module.exports = {
     theme: {
       extend: {
         colors: {
-          'emerald': '#50C878'
+          'emerald': '#50C878',
+          'apricot': '#FBCEB1'
         }
       }
     },
